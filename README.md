@@ -14,14 +14,12 @@ Build predictive model that will be used by the management to understand how exa
 
 ## Steps performed to build the model.
 
- - Process data (convert columns to appropriate formats, handle missing values, etc.)
+- Data understanding and exploration
 
-- Conduct exploratory analysis to extract useful insights (whether directly useful for business or for eventual modelling/feature engineering).
+- Data cleaning
 
-- Derive new features.
+- Data preparation
 
-- Performed Scalling and RFE.
+- Model building and evaluation
 
-- Build Model using Ridge and Lasso Regression.
-
-- Evaluate the Model
+- Observation and inference
